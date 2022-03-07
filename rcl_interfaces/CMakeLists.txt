@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ParameterType.msg"
   "msg/ParameterValue.msg"
   "msg/SetParametersResult.msg"
+  "msg/HobotMemoryCommon.msg"
   "srv/DescribeParameters.srv"
   "srv/GetParameters.srv"
   "srv/GetParameterTypes.srv"
